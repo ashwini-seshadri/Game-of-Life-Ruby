@@ -23,6 +23,5 @@ Things you may want to cover:
 
 * ...
 
--- Generate a readme for game of life.
--- Also post a video along with the readme.
+
 
